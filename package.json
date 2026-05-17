@@ -1,0 +1,7 @@
+{
+  "name": "ec2-cicd-webapp",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'No tests yet - CI/CD working!'"
+  }
+}
